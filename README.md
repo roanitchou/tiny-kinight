@@ -1,2 +1,2 @@
 # tiny-kinight
-[GitHub](https://ianroanito.itch.io/tiny-kinight)
+[Tiny Kinight](https://ianroanito.itch.io/tiny-kinight)
